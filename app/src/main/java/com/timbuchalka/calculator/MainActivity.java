@@ -172,4 +172,6 @@ public class MainActivity extends AppCompatActivity {
         return "Hung has were";
     }
     //This is a comment to test the Git Pull from Android Studio
+    
+    //Another day, another comment
 }
