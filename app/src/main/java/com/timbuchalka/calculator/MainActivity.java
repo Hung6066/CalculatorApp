@@ -171,4 +171,5 @@ public class MainActivity extends AppCompatActivity {
     public String retunName(){
         return "Hung has were";
     }
+    //This is a comment to test the Git Pull from Android Studio
 }
