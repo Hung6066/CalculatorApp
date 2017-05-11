@@ -134,7 +134,9 @@ public class MainActivity extends AppCompatActivity {
         operand1 = savedInstanceState.getDouble(STATE_OPERAND1);
         displayOperation.setText(pendingOperation);
     }
-
+    public String hungMethod(){
+        return "method Hung";
+    }
     private void performOperation(Double value, String operation) {
         if (null == operand1) {
             operand1 = value;
